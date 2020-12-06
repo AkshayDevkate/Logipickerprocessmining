@@ -36,3 +36,9 @@ Logpickr Process Explorer 360 brings you all the answers on your processes, by s
     [learn more](https://www.logpickr.com/en/industry.html)
     
     
+# Resources 
+
+1. News and Press [explore](https://www.logpickr.com/en/press.html)
+
+2. Blogs [explore](https://www.logpickr.com/en/blog.html)
+    
